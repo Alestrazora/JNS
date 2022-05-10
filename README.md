@@ -1,2 +1,2 @@
 # JNS
-young php developer
+first project on PHP
